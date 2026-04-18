@@ -9,7 +9,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/YOUR-USERNAME/capstone-devops-project.git'
+                git 'https://github.com/Pratiksha-2004-gif/capstone-devops-project.git'
             }
         }
 
